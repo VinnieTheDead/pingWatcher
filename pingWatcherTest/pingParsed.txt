@@ -1,0 +1,12 @@
+Minimum = 31ms, Maximum = 32ms, Average = 31ms, Fri Dec 15 12:19:55 2017
+Minimum = 31ms, Maximum = 32ms, Average = 31ms, Fri Dec 15 12:20:25 2017
+Minimum = 31ms, Maximum = 32ms, Average = 31ms, Fri Dec 15 12:20:59 2017
+Minimum = 30ms, Maximum = 33ms, Average = 31ms, Fri Dec 15 12:21:32 2017
+Minimum = 31ms, Maximum = 38ms, Average = 33ms, Fri Dec 15 12:24:03 2017
+Minimum = 30ms, Maximum = 33ms, Average = 31ms, Fri Dec 15 12:24:33 2017
+Minimum = 31ms, Maximum = 36ms, Average = 32ms, Fri Dec 15 12:25:07 2017
+Minimum = 31ms, Maximum = 34ms, Average = 32ms, Fri Dec 15 12:25:40 2017
+Minimum = 30ms, Maximum = 35ms, Average = 31ms, Fri Dec 15 12:26:14 2017
+Minimum = 32ms, Maximum = 36ms, Average = 33ms, Fri Dec 15 12:26:47 2017
+Minimum = 30ms, Maximum = 31ms, Average = 30ms, Fri Dec 15 12:27:21 2017
+Minimum = 30ms, Maximum = 49ms, Average = 36ms, Fri Dec 15 12:27:54 2017

@@ -1,0 +1,85 @@
+
+
+Pinging 172.217.12.110 with 32 bytes of data:
+Reply from 172.217.12.110: bytes=32 time=33ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=32ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=35ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=32ms TTL=53
+
+Ping statistics for 172.217.12.110:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 35ms, Average = 33ms
+Fri Dec 15 12:29:37 2017
+
+Pinging 172.217.12.110 with 32 bytes of data:
+Reply from 172.217.12.110: bytes=32 time=34ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=33ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=33ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=34ms TTL=53
+
+Ping statistics for 172.217.12.110:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 33ms, Maximum = 34ms, Average = 33ms
+Fri Dec 15 12:30:08 2017
+
+Pinging 172.217.12.110 with 32 bytes of data:
+Reply from 172.217.12.110: bytes=32 time=31ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=39ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=33ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=33ms TTL=53
+
+Ping statistics for 172.217.12.110:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 39ms, Average = 34ms
+Fri Dec 15 12:30:41 2017
+
+Pinging 172.217.12.110 with 32 bytes of data:
+Reply from 172.217.12.110: bytes=32 time=32ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=32ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=31ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=31ms TTL=53
+
+Ping statistics for 172.217.12.110:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 32ms, Average = 31ms
+Fri Dec 15 12:31:15 2017
+
+Pinging 172.217.12.110 with 32 bytes of data:
+Reply from 172.217.12.110: bytes=32 time=31ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=30ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=30ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=31ms TTL=53
+
+Ping statistics for 172.217.12.110:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 31ms, Average = 30ms
+Fri Dec 15 12:31:48 2017
+
+Pinging 172.217.12.110 with 32 bytes of data:
+Reply from 172.217.12.110: bytes=32 time=30ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=31ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=30ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=32ms TTL=53
+
+Ping statistics for 172.217.12.110:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 32ms, Average = 30ms
+Fri Dec 15 12:32:21 2017
+
+Pinging 172.217.12.110 with 32 bytes of data:
+Reply from 172.217.12.110: bytes=32 time=33ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=47ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=31ms TTL=53
+Reply from 172.217.12.110: bytes=32 time=32ms TTL=53
+
+Ping statistics for 172.217.12.110:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 47ms, Average = 35ms
+Fri Dec 15 12:32:55 2017
