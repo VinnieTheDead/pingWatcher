@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1513280825 source:c:\users\bryan\desktop\test\test\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"ping.h"
+
+1513273185 c:\users\bryan\desktop\test\test\ping.h
+
+1513355092 source:c:\users\vinni\desktop\pingwatcher\test\test\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"ping.h"
+	<ctime>
+
+1513359367 c:\users\vinni\desktop\pingwatcher\test\test\ping.h
+	<ctime>
+	<fstream>
+
